@@ -5,4 +5,6 @@ More specifically, this script adds the *UA23DP* version of the **Find Familiar*
 
 This script will allow users to more easily playtest the upcoming revision to D&D 5E.
 
+**Script Content Source:** https://media.dndbeyond.com/compendium-images/one-dnd/druid-paladin/PXoa3UgywnZbwc9U/UA-2023-DruidandPaladin.pdf
+
 For instructions on how to add this script to the sheet, please see this page: https://www.flapkan.com/how-to/add-more-content
