@@ -19,6 +19,7 @@ SourceList["UA23DP"] = {
 	name : "Unearthed Arcana 2023: Druid & Paladin",
 	abbreviation : "UA23DP",
 	date : "2023/02/23",
+	url : "https://media.dndbeyond.com/compendium-images/one-dnd/druid-paladin/PXoa3UgywnZbwc9U/UA-2023-DruidandPaladin.pdf",
 };
 
 // Add "Find Familiar (UA23DP)" spell
